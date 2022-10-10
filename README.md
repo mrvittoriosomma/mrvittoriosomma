@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Vittorio Somma<br>I’m currently studying on Federico II in Naples, Italy<br>
+Hi, my name is Vittorio Somma<br>I’m currently studying Computer Science on Federico II in Naples, Italy<br>
 
 
 # 💻 Tech Stack:
