@@ -9,5 +9,4 @@ Hi, my name is Vittorio Somma<br>I’m currently studying Computer Science on Fe
 <a href="https://linkedin.com/in/vittoriosomma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vittoriosomma" height="30" width="40" /></a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvittoriosomma&show_icons=true&theme=tokyonight&locale=it" alt="mrvittoriosomma" /></p>
----
 [![](https://visitcount.itsvg.in/api?id=mrvittoriosomma&icon=5&color=0)](https://visitcount.itsvg.in)
